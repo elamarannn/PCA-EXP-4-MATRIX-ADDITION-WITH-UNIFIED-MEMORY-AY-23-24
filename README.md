@@ -282,4 +282,4 @@ Code utput with nv profiling:
 ![325083801-30383788-726f-4a9f-9279-3b4c62621b1f](https://github.com/elamarannn/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/113497531/6a5df683-3811-42b9-9f68-4ffeb931f037)
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.04569 time.
